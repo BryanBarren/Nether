@@ -1,0 +1,10 @@
+name: Nether
+main: me.Bryan.Nether.Main
+version: 0.1
+description: This plugin prevents users from going above the nether ceiling
+author: Santa
+
+permissions:
+  netherroofprotect.allow:
+    description: Allows the player to be on top of the nether bedrock layer
+    default: op
